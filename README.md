@@ -5,4 +5,4 @@ virtual-tourism-information_ merupakan aplikasi berbasis computer vision yang me
 
 <p><img align="right" alat="gif" src="https://github.com/IrwanZamroni/virtual-tourism-information_/blob/main/ezgif.com-gif-maker.gif" width="500" height="320" /><p>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
